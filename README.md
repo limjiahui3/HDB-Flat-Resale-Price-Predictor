@@ -12,6 +12,8 @@
 
 **Streamlit App:** [HDB Flat Resale Price Predictor](https://hdb-flat-resale-price-predictor-hr36dfqigzrdvqp2dgxjhg.streamlit.app/)
 
+<img width="3071" height="1537" alt="HDB Flat Resale Price Predictor Streamlit" src="https://github.com/user-attachments/assets/02f51112-2113-48ed-b02b-5966aa936186" />
+
 ## Overview
 
 **Data Source:** [data.gov.sg](https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view) (Resale flat prices based on registration date from Jan-2017 onwards)
